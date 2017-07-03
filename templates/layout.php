@@ -2,9 +2,10 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title><?php echo $title ?></title>
+        <title>workshop</title>
     </head>
     <body>
+        <?php echo $title ?>
         <?php echo $content ?>
     </body>
 </html>
